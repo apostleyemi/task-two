@@ -1,0 +1,11 @@
+C:\Users\TechSpace\source\repos\WebApiTask\WebApiTask\obj\Release\net8.0\PubTmp\Out\WebApiTask.exe
+C:\Users\TechSpace\source\repos\WebApiTask\WebApiTask\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\TechSpace\source\repos\WebApiTask\WebApiTask\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\TechSpace\source\repos\WebApiTask\WebApiTask\obj\Release\net8.0\PubTmp\Out\WebApiTask.dll
+C:\Users\TechSpace\source\repos\WebApiTask\WebApiTask\obj\Release\net8.0\PubTmp\Out\WebApiTask.deps.json
+C:\Users\TechSpace\source\repos\WebApiTask\WebApiTask\obj\Release\net8.0\PubTmp\Out\WebApiTask.runtimeconfig.json
+C:\Users\TechSpace\source\repos\WebApiTask\WebApiTask\obj\Release\net8.0\PubTmp\Out\WebApiTask.pdb
+C:\Users\TechSpace\source\repos\WebApiTask\WebApiTask\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\TechSpace\source\repos\WebApiTask\WebApiTask\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TechSpace\source\repos\WebApiTask\WebApiTask\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TechSpace\source\repos\WebApiTask\WebApiTask\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\TechSpace\Documents\PublishedDotnetApp\newDeployment</_PublishTargetUrl>
+    <History>True|2024-07-02T23:23:10.3133935Z||;True|2024-07-03T00:10:37.6553311+01:00||;True|2024-07-03T00:01:04.8832856+01:00||;True|2024-07-02T23:55:46.5376553+01:00||;True|2024-07-02T17:49:50.0444632+01:00||;True|2024-07-02T17:35:47.9320345+01:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
